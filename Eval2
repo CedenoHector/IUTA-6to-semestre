@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="esp">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Oculus</title>
+        <link rel="stylesheet" href="estilos.css"/>
+    </head>
+    <body>
+
+        <div id="container">
+            
+            <header>
+                <a href="#"><img src="img/oculuslogo.png" width="180"/></a>
+            </header>
+
+        <nav>
+            <a href="#" class="option">Productos</a>
+            <a href="#" class="option">Apps y Juegos</a>
+            <a href="#" class="option">Software</a>
+            <a href="#" class="option">Ayuda</a>
+        </nav>
+        <div id="img-principal">
+            <a href="#"><img src="img/imgpagprinc.png" width="80%"/></a>
+        </div>
+
+        <section id="content">
+            <h1 id="titulo">Titulo de seccion</h1>
+            <p id="txt">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa hic labore qui soluta a dolorum, rerum suscipit excepturi voluptatum quidem ipsam ab aut similique voluptas quos fugiat. Officiis, ipsa unde!</p>
+        </section>
+        <div id="img">
+            <img class="photo" src="img/Img1.jpg" width="370" height="370"/>
+            <img class="photo" src="img/img2.png" width="370" height="370"/>
+            <img class="photo" src="img/img3.png" width="370" height="370"/>
+        </div>
+
+        <footer>
+            <p id="company">Oculus Company &copy;</p>
+            <p id="a">Siguenos en las redes</p>
+            <div id="redes">
+                <a href="#"><img class="red" src="img/facebook.png" width="30" height="30"/></a>
+                <a href="#"><img class="red" src="img/instagram.png" width="30" height="30"/></a>
+                <a href="#"><img class="red" src="img/youtube.png" width="30" height="30"/></a>
+                <a href="#"><img class="red" src="img/discord.png" width="30" height="30"/></a>
+                <a href="#"><img class="red" src="img/twitter.png" width="30" height="30"/></a>
+            </div>
+        </footer>
+    </body>
